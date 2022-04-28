@@ -45,3 +45,5 @@ xclass:'Earthquakes.view.main.MainModel'
         }
     }]
 });
+
+
