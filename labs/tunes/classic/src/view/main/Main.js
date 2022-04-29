@@ -9,7 +9,6 @@ Ext.define('Tunes.view.main.Main',{
         'Ext.plugin.Viewport',
         'Tunes.view.View'
     ],
-
     controller: 'main-main',
     viewModel: {
         type: 'main-main'
